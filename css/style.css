@@ -1,0 +1,27 @@
+/**{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}*/
+.container {
+	margin-left:100px;
+	margin-right:100px;
+		
+	height: 970px;
+	background-image: url(../images/homebg.jpeg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	/*text-align: center;*/
+	/*width:50%;
+	height:50%;*/
+}
+.container h1{
+	padding-top:10px;
+	color: red;
+}
+.divsearch{
+	margin-left:80px;
+}
+.divsearch label{
+	color:white;
+}

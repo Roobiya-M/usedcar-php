@@ -1,0 +1,31 @@
+/**{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}*/
+.container {
+	margin-left:100px;
+	margin-right:100px;
+	
+	height: 970px;
+	background-image: url(../images/bgimg.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center right;
+}
+.container h1{
+	padding-top:10px;
+	color: red;
+}
+.container label{
+	color:lightgreen;
+}
+.form-error{
+	color:red;
+}
+.form-success{
+	color:green;
+}
+.input-error{
+	box-shadow: 0 0 5px red;
+}
